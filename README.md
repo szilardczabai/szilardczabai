@@ -6,8 +6,8 @@ I have 5 years of experience in **data analytics**, working with VBA, SQL, R, an
 ## ![Project Icon](https://github.com/szilardczabai/Design/blob/main/What-you-will-find-here.png) 
    &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/EDA.png" alt="EDA Icon" width="47">&nbsp; **Exploratory data analysis (EDA)**<br> 
    &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/ML.png" alt="ML Icon" width="47">&nbsp; **Machine learning & statistical modeling**<br> 
-   &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Visualization.png" alt="BI Icon" width="47">&nbsp; **Data visualization dashboards**<br> 
-   &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Business-Analysis.png" alt="BI Icon" width="47">&nbsp; **Financial and business analytics projects**  
+   &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Visualization.png" alt="Visualization Icon" width="47">&nbsp; **Data visualization dashboards**<br> 
+   &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Business-Analysis.png" alt="Business-Analysis Icon" width="47">&nbsp; **Financial and business analytics projects**  
 
 ## ![Project Icon](https://github.com/szilardczabai/Design/blob/main/Certificates.png) 
    &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Tickbox.png" alt="Tickbox Icon" width="47">&nbsp; **Microsoft Power BI Data Analyst (PL-300)**<a href="https://github.com/szilardczabai/Certificates/blob/main/Database%20Design%20-%20DataCamp.pdf"><img src="https://github.com/szilardczabai/Design/blob/main/See.png" alt="See Icon" width="28"  align="right"></a>
@@ -24,41 +24,41 @@ I have 5 years of experience in **data analytics**, working with VBA, SQL, R, an
 <details>
   <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/VBA.png" alt="VBA Icon" width="28"> VBA Projects</strong></strong></summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Excel Automation](https://github.com/your-profile/vba-automation)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Excel Automation](https://github.com/szilardczabai/vba-automation)**  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Macros and automated report generation using VBA.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Data Cleaning](https://github.com/your-profile/vba-data-cleaning)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Data Cleaning](https://github.com/szilardczabai/vba-data-cleaning)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Excel data cleaning tool built in VBA.<br>
 </details>
 
 <details>
-  <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/SQL.png" alt="VBA Icon" width="28"> SQL Projects</strong></summary>
+  <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/SQL.png" alt="SQL Icon" width="28"> SQL Projects</strong></summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Data Warehouse Building](https://github.com/your-profile/sql-data-warehouse)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Data Warehouse Building](https://github.com/szilardczabai/sql-data-warehouse)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Building a complete data warehouse in SQL, including ETL processes.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Query Optimization](https://github.com/your-profile/sql-query-optimization)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Query Optimization](https://github.com/szilardczabai/sql-query-optimization)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Strategies for improving SQL performance.<br>
 </details>
 
 <details>
   <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/PBI.png" alt="PBI Icon" width="28"> Power BI Projects</strong></summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Sales Dashboard](https://github.com/your-profile/powerbi-sales-dashboard)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Sales Dashboard](https://github.com/szilardczabai/powerbi-sales-dashboard)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> An interactive Power BI report visualizing annual sales data.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Financial Analysis](https://github.com/your-profile/powerbi-financial-analysis)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Financial Analysis](https://github.com/szilardczabai/powerbi-financial-analysis)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> A detailed financial report created using Power BI.<br>
 </details>
 
 <details>
   <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/R.png" alt="R Icon" width="28"> R Projects</strong></summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Clustering in R](https://github.com/your-profile/r-data-visualization)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Clustering in R](https://github.com/szilardczabai/r-data-visualization)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Clustering product categories with ggplot2.<br>
 </details>
 
 <details>
   <summary><strong><img align="center" src="https://github.com/szilardczabai/Design/blob/main/Python.png" alt="Python Icon" width="28"> Python Projects</strong></summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Clustering in R](https://github.com/your-profile/r-data-visualization)**  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Dot.png" alt="Dot Icon" width="23"> **[Clustering in R](https://github.com/szilardczabai/r-data-visualization)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/szilardczabai/Design/blob/main/Info.png" alt="Info Icon" width="18"> Clustering product categories with ggplot2.<br>
 </details>
 
